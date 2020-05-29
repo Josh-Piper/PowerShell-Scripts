@@ -1,2 +1,4 @@
 https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/learn/lecture/11436962#overview,
 https://docs.google.com/document/d/1KwZysn3Iz0Cw6T-vFjOfHEzVGYAgpQMSpYXAAv1lvUU/edit#heading=h.9nzfez3c1pm4,
+https://www.udemy.com/course/docker-fast-track/learn/lecture/18382046#overview,
+https://www.youtube.com/watch?v=w_aVnMmrASE

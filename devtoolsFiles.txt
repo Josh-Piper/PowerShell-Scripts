@@ -1,0 +1,3 @@
+https://docs.google.com/document/d/1IZi0cnWt1AIxLTi6NRoEwXm0oOGlWrW936VQ1_t6-So/edit,
+Do LSR.
+Do TDD.
